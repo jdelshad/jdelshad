@@ -1,2 +1,2 @@
 # jdelshadi
-Portfolio for John Delshadi, Senior Product Manager
+Portfolio for John Delshadi, Senior Product Manager!
